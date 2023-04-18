@@ -24,6 +24,7 @@ Indeed if the neuron output is exactly zero it cannot be assumed that the sample
 
 
 ALGORITHM:
+
 Importing the libraries
 Importing the dataset
 Plot the data to verify the linear separable dataset and consider only two classes
@@ -114,17 +115,19 @@ plt.show()
 
 
 OUTPUT:
-
 DATASET:
+
 ![232369328-072d8d52-9121-4e9d-bd77-3963a3e71f5a](https://user-images.githubusercontent.com/94828604/232685692-33111c5b-8f28-402e-af3f-20d44fd5b606.png)
 
 SCATTER PLOT:
 ![232369376-e32b7f60-a2e4-4dda-b510-156abc8e7c06](https://user-images.githubusercontent.com/94828604/232685779-ef0405da-f6b2-45a3-8b0f-dc2fe91a0ba4.png)
 
 ERROR PLOT:
+
 ![232369423-8463f896-0e8f-4a42-80e7-c855c2c26baf](https://user-images.githubusercontent.com/94828604/232685982-9d2588bc-a0f1-4871-85b9-1acf710a961e.png)
 
 ACCURACY:
+
 ![232369469-1380a130-e714-45c6-ba9f-2d086349bc0d](https://user-images.githubusercontent.com/94828604/232686092-e10f0e64-454f-4cbc-9f1c-7084b6686cd4.png)
 
 
